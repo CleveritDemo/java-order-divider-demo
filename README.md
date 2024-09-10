@@ -46,4 +46,4 @@ Here's an example of a prompt for AI Assistant:
 
 "As a dedicated Java developer, you understand the importance of unit testing. Your goal is to create an extensive suite of unit tests for the domain classes in your Springboot web application, with specific focus on ensuring each class behaves as expected."
 
-With these steps, you will be well on your way to a more robust, scalable, and maintainable Java application. Happy coding!
+With these steps, you will be well on your way to a more robust, scalable, and maintainable Java application. Happy coding
